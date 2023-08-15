@@ -87,7 +87,7 @@ display: flex;
 .body-part
 {
    display: inline-flex;
-   width: 95%;
+   width: 101%;
    justify-content: center;
 
 }
@@ -144,7 +144,7 @@ display: flex;
     display: flex;
     justify-content: space-evenly;
     margin-top: 30px;
-    width: 95%;
+    width: 101%;
 }
 #box1
 {
@@ -223,7 +223,7 @@ display: flex;
     width: 90%;
     height: 75%;
     background-color: #483EFF;
-    margin-left: 40px;
+    margin-left: 80px;
     margin-right: 80px;
     border-radius: 10px;
     margin-bottom: 80px;
