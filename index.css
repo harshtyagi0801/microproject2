@@ -121,10 +121,11 @@ display: flex;
 .logo
 {
    
-    display: inline-block;
+    display: block;
     position: fixed;
     right: 0px;
-    top: 200px;
+    top: 100px;
+    margin-top: 150px;
     margin-bottom: 130px;
     
 }
@@ -307,3 +308,20 @@ display: flex;
 padding-top: 5px;   
 width: 25%;
 }
+/* @media screen and (max-width: 1600px ) {
+    .txt
+{
+   
+    font-family: sans-serif;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+    font-size: medium;
+    word-spacing: 5px;
+    background-color: #E5D8FF;
+    padding: 30px;
+    height: 280px;
+    width: 600px;
+    margin-top: 80px;
+}
+  } */
